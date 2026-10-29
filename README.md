@@ -113,6 +113,8 @@ AI 会重组这段经历的摘要和 bullet，不改动其他经历；缺少关�
 
 简历编辑、导出和岗位看板免费使用。
 
+需要模板可以看 [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates)：57 套免费中文简历模板，附预览图和示例数据。
+
 ## 参与贡献
 
 欢迎提 Issue 和 PR：发现某个 Skill 的规则在实际使用中不好用、触发不准，或者有更好的写法，都可以直接提出来。修改时请保持"只用事实、不编造、不升级职责"这几条底线。
