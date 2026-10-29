@@ -1,0 +1,15 @@
+{
+  "name": "drawoffer-skills",
+  "description": "DrawOffer 职绘的简历与求职 Agent Skills：简历诊断、STAR 改写、从资料写简历、引导式创建、简历翻译、面试准备与职业规划。",
+  "owner": {
+    "name": "DrawOffer 职绘",
+    "url": "https://www.drawoffer.com"
+  },
+  "plugins": [
+    {
+      "name": "drawoffer",
+      "source": "./",
+      "description": "简历与求职 Agent Skills：诊断、改写、生成、翻译、面试准备与职业规划。"
+    }
+  ]
+}

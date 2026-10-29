@@ -1,0 +1,23 @@
+{
+  "name": "drawoffer",
+  "version": "1.0.0",
+  "displayName": "DrawOffer 职绘 · 简历 Skills",
+  "description": "简历诊断、经历 STAR 重组、局部润色、从资料写简历、引导式创建、简历翻译、面试准备与职业规划的 Agent Skills，基于事实、改动先给用户确认。",
+  "author": {
+    "name": "DrawOffer 职绘",
+    "url": "https://www.drawoffer.com"
+  },
+  "homepage": "https://www.drawoffer.com",
+  "repository": "https://github.com/ql-link/drawoffer-skills",
+  "license": "MIT",
+  "keywords": [
+    "resume",
+    "简历",
+    "简历优化",
+    "STAR",
+    "面试",
+    "求职",
+    "career",
+    "agent-skills"
+  ]
+}
