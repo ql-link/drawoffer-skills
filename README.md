@@ -115,6 +115,8 @@ AI 会重组这段经历的摘要和 bullet，不改动其他经历；缺少关�
 
 需要模板可以看 [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates)：57 套免费中文简历模板，附预览图和示例数据。
 
+想让 AI 直接读到你在 DrawOffer 里的简历和岗位，可以用 [drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)（即将上线）。
+
 ## 参与贡献
 
 欢迎提 Issue 和 PR：发现某个 Skill 的规则在实际使用中不好用、触发不准，或者有更好的写法，都可以直接提出来。修改时请保持"只用事实、不编造、不升级职责"这几条底线。
