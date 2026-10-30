@@ -113,7 +113,7 @@ AI 会重组这段经历的摘要和 bullet，不改动其他经历；缺少关�
 
 简历编辑、导出和岗位看板免费使用。
 
-需要模板可以看 [chinese-resume-templates](https://github.com/ql-link/chinese-resume-templates)：57 套免费中文简历模板，附预览图和示例数据。
+需要模板可以看 [drawoffer-chinese-resume-templates](https://github.com/ql-link/drawoffer-chinese-resume-templates)：57 套免费中文简历模板，附预览图和示例数据。
 
 想让 AI 直接读到你在 DrawOffer 里的简历和岗位，可以用 [drawoffer-mcp](https://github.com/ql-link/drawoffer-mcp)。
 
